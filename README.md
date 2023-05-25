@@ -1,5 +1,5 @@
 
-<h1 align="center">
+<h1>
   Let's connect and have a chat!
 </h1>
 
