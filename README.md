@@ -4,7 +4,7 @@
 </h1>
 
 
-<a href="https://www.linkedin.com/in/ramiz-allahverdiyev-1bb843224/">
+<a href="https://www.linkedin.com/in/ramiz-allahverdiyev-1bb843224/" target="_blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 
