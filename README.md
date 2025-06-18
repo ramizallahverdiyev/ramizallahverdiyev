@@ -1,34 +1,45 @@
+# 👋 Hi, I'm Ramiz Allahverdiyev
 
-<h1>
-  Let's connect and have a chat!
-</h1>
+📊 **Data Enthusiast** | 🧠 **Turning Numbers into Insights** | 🌐 **Exploring the Data Universe**
 
+---
 
-<a href="https://www.linkedin.com/in/ramiz-allahverdiyev-1bb843224/" target="_blank">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
+### 🔍 What I Do
 
+I specialize in transforming raw data into actionable insights.
 
-<h2> &nbsp;Tools and Languages</h2>
-<p align="left">
+- ✨ Data Cleaning & Wrangling  
+- 📈 Data Visualization (Tableau, Power BI)  
+- 🐍 Python, SQL for Data Analysis  
+- 📊 Exploratory Data Analysis (EDA)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+I thrive on making data understandable and useful, with a toolkit that bridges technical skill and storytelling.
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45" />
+---
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="numpy" width="45" height="45" />
+### 🤝 Let's Connect
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
+I'm excited to connect with fellow data enthusiasts, professionals, and anyone who shares a passion for the transformative power of data. Whether you're looking to collaborate, share insights, or just chat — feel free to reach out!
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45" />
+---
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45" />
+### 📧 Contact
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="45" height="45"/>
+📩 **Email:** ramizallahverdiyev0@gmail.com  
+🌐 **Portfolio:** [ramizallahverdiyev.github.io](https://ramizallahverdiyev.github.io/)  
+💼 **LinkedIn:** [linkedin.com/in/ramizallahverdiyev](https://linkedin.com/in/ramizallahverdiyev)
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
+---
 
-<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="45" height="45"/>
+### 🛠️ Tools & Technologies
 
-<img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" width="45" height="45"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramizallahverdiyev&show_icons=true&theme=radical&count_private=true)
